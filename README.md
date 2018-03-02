@@ -1,3 +1,3 @@
 # Introductory-Python
 
-### This will help me organize my Python notebooks from Coursera
+### This will help me organize my Python notebooks from Coursera.
